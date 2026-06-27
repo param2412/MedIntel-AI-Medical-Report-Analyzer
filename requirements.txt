@@ -1,0 +1,13 @@
+flask
+python-dotenv
+pytesseract
+pillow
+numpy
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+pymupdf
+reportlab
+streamlit
+requests
